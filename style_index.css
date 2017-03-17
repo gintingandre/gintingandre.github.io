@@ -1,0 +1,38 @@
+body {
+    background: url('http://cdn.wallpapersafari.com/83/81/Y9ptZO.jpg');    
+}
+div {
+  background: #fff
+}
+
+p {
+color: #fff;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
+h2 {
+color: #fff;
+}
+
+
+header {
+  position: fixed;
+  background-color:#fff;
+}
+
+
+li{
+  display: inline;
+  font-size: 18px;
+  margin-right: 25px;
+  float: center;
+  background-color: #FFF;
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 2ab6a21417aff10ddaaff96c6b9aa4f188ca2ebf
